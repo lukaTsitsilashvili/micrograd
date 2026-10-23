@@ -1,6 +1,6 @@
 # micrograd-project
 
-A tiny neural network library in pure Python with automatic differentiation, based on Andrej Karpathy's [micrograd](https://github.com/karpathy/micrograd).
+A tiny neural network library in pure Python with automatic differentiation.
 
 ## Structure
 
